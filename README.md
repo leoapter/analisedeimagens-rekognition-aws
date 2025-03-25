@@ -1,0 +1,1 @@
+# analisedeimagens-rekognition-aws
